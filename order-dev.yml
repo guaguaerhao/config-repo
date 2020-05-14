@@ -18,7 +18,7 @@ env:
 
 girl:
   name: lili
-  age: 35
+  age: 25
 
 
 # 以下是修改ribbon的负载均衡策略，   当前配置策略已被修改为随机策略
